@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.test.belajarloginrolebasedfirebase" />
+                  <option name="mobileSdkAppId" value="1:474103518049:android:180baddda0ee8c5efa2b20" />
+                  <option name="projectId" value="belajarloginrolebasedfirebase" />
+                  <option name="projectNumber" value="474103518049" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
